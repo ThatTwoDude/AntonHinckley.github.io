@@ -4,30 +4,30 @@ title: "About Me"
 
 ## Background
 
-Write a brief introduction about yourself here. Include:
+I'm studying Statistics with a data science emphasis at Brigham Young University, my expected graduation date is 2027. I'm interested in AI and Data Science.
 
-- Your academic background
-- Your interest in data science
-- Your career goals
-- Any relevant experience or projects
 
 ## Education
 
-- **[Your Degree]** - [University Name], [Year]
-- **Relevant Coursework**: Statistics, Data Analysis, Programming, etc.
+- **Statistice - Data Science Emphasis** - Brigham Young University, 2027
+- **Relevant Coursework**:  Bayesian Statistics, Data Science Process, Multivariable Calculus
 
 ## Skills & Interests
 
 ### Technical Skills
-- **Programming**: Python
+- **Programming**: Python, R, C, C+, jaba
 - **Data Analysis**: Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn
 - **Machine Learning**: Scikit-learn
 - **Tools**: Jupyter Notebooks, Git/GitHub
+- **Specialized Dishes**: Pizza Dough, Korean Fried Chicken, Pizza Sauce
 
 ### Areas of Interest
-- [Your specific interests, e.g., environmental data, healthcare analytics, finance, etc.]
-- [Other areas you're curious about]
+- Finance
+- Health Care
+- AI
+- Machine Learning
+- Bannana Crisis in Ecuador
 
 ## Goals
 
@@ -39,9 +39,9 @@ Describe what you hope to achieve through your data science journey:
 
 ## Contact
 
-- **Email**: your.email@example.com
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Email**: antonhinckley@gmail.com
+- **GitHub**: [github.com/ThatTwoDude](https://github.com/ThatTwoDude)
+- **LinkedIn**: [https://www.linkedin.com/in/anton-hinckley-1856a732b/](https://www.linkedin.com/in/anton-hinckley-1856a732b/)
 
 ---
 
